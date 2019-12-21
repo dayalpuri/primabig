@@ -1,5 +1,7 @@
-# Your wiki name
+# Prima Wiki
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[Big Data](index.md)
+
+[gimmick:themechooser](Změna stylu)
+[gimmick:theme](readable)
+
