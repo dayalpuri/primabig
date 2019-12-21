@@ -3,5 +3,5 @@
 [Big Data](index.md)
 
 [gimmick:themechooser](Změna stylu)
-[gimmick:theme](readable)
+<!--[gimmick:theme](readable)-->
 
